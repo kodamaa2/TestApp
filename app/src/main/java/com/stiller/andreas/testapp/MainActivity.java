@@ -20,7 +20,7 @@ public class MainActivity extends ActionBarActivity {
         // Julius ist ein grosser Pisser
         // Julius stinkt auch nach scheisse
         // Wenn der Andi noch einmal mich beleidigt steige ich aus
-        // ok tut mir leid julius
+        // ok tut mir leid Julius
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
